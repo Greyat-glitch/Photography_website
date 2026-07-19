@@ -40,3 +40,40 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+.Intro-content h1 {
+  font-family: var(--font-heading);
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1;
+  margin-bottom: 8rem;
+}
+
+.Intro-section {
+    background-image: url(/images/roll.jpg); 
+    background-size: cover; 
+    background-position: center;   
+    background-repeat: no-repeat; 
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 0 4%;
+    }  
+
+.btn-primary {
+  display: inline-block;
+  padding: 0.8rem 2rem;
+  border: 5px solid;
+  border-radius: 5px;
+  color: var(--text-dark);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  opacity: 0.7;
+  background-color: whitesmoke;
+  color: blue;
+}
+
