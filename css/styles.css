@@ -77,3 +77,23 @@ body {
   color: blue;
 }
 
+.portfolio-section {
+  padding: 6rem;
+}
+
+h2 {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  font-weight: 400;
+  margin-bottom: 3rem;
+}
+
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 13fr));
+  gap: 2rem;
+}
+
+
+
+
