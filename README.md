@@ -1,4 +1,4 @@
-# AutoFocus: Car Photography Portfolio 🚗
+# Spectacular Wesley: Car Photography Portfolio 🚗
 
 Welcome to My Photoghrapy web! This is a simple, responsive photography portfolio website dedicated to showcasing automotive photography.
 
