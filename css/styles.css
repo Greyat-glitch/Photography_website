@@ -32,4 +32,11 @@ body {
 
 .nav-links a:hover {
   opacity: 0.7;
+  color: blue;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
