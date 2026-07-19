@@ -20,3 +20,12 @@ body {
   letter-spacing: 2px;
   font-size: 1.1rem;
 }
+
+.nav-links a {
+  text-decoration: none;
+  color: var(--text-dark);
+  margin-left: 2rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  transition: opacity 0.3s ease;
+}
