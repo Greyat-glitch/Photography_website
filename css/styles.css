@@ -170,3 +170,12 @@ h2 {
 .btn-submit:hover {
   opacity: 0.9;
 }
+
+.footer-section {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1rem;
+  color:white;
+  background-color: black;
+  border: 5px;
+}
