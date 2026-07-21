@@ -16,7 +16,7 @@ As an automotive enthusiast, I wanted to create a clean, modern space to display
 - **Image Gallery:** A responsive grid layout to easily view high-resolution car photos.
 - **Responsive Design:** Works perfectly across desktop, tablet, and mobile phone screens.
 
-## 👤 Author
+## Author
 
 **[Wesley Jones]**
 
